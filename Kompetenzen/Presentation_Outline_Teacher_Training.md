@@ -128,7 +128,7 @@ Nach dieser Einheit können die Teilnehmenden:
 1. Den mBot als physisches System mit Eingabe–Verarbeitung–Ausgabe beschreiben
 2. Erklären, warum Robotik kein MINT-exklusives Thema ist
 3. Mindestens **zwei eigene Fachbezüge** zum mBot benennen
-4. Die drei Ebenen des UNESCO ICT-CFT unterscheiden: *Anwendung → Vertiefung → Gestaltung*
+
 
 ---
 
