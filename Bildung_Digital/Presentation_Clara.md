@@ -7,6 +7,7 @@ narrator: Deutsch Female
 comment:  Referat über Magma Math – eine interaktive, digitale Plattform für den Mathematikunterricht.
 logo:     https://cdn.prod.website-files.com/6184f626df649814ffa5b6e6/68623622dd06cf5a476e6d5e_Magma_Logo_Horizontal_Gradient_Symbol_Black_Text.png
 -->
+![Logo](https://https://github.com/HTegelbeckers/Didaktikwerkstatt_2026_2/blob/main/Bildung_Digital/media/magma_Logo_Horizontal_Gradient_Symbol_Black_Text.png)
 
 # Magma Math
 
